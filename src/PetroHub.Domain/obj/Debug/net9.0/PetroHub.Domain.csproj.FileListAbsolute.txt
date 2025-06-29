@@ -1,0 +1,11 @@
+C:\Nexule Projects\PetroHubV2\src\PetroHub.Domain\bin\Debug\net9.0\PetroHub.Domain.deps.json
+C:\Nexule Projects\PetroHubV2\src\PetroHub.Domain\bin\Debug\net9.0\PetroHub.Domain.dll
+C:\Nexule Projects\PetroHubV2\src\PetroHub.Domain\bin\Debug\net9.0\PetroHub.Domain.pdb
+C:\Nexule Projects\PetroHubV2\src\PetroHub.Domain\obj\Debug\net9.0\PetroHub.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nexule Projects\PetroHubV2\src\PetroHub.Domain\obj\Debug\net9.0\PetroHub.Domain.AssemblyInfoInputs.cache
+C:\Nexule Projects\PetroHubV2\src\PetroHub.Domain\obj\Debug\net9.0\PetroHub.Domain.AssemblyInfo.cs
+C:\Nexule Projects\PetroHubV2\src\PetroHub.Domain\obj\Debug\net9.0\PetroHub.Domain.csproj.CoreCompileInputs.cache
+C:\Nexule Projects\PetroHubV2\src\PetroHub.Domain\obj\Debug\net9.0\PetroHub.Domain.dll
+C:\Nexule Projects\PetroHubV2\src\PetroHub.Domain\obj\Debug\net9.0\refint\PetroHub.Domain.dll
+C:\Nexule Projects\PetroHubV2\src\PetroHub.Domain\obj\Debug\net9.0\PetroHub.Domain.pdb
+C:\Nexule Projects\PetroHubV2\src\PetroHub.Domain\obj\Debug\net9.0\ref\PetroHub.Domain.dll

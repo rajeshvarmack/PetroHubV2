@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NxZepMDmgeg=",
+  "success": true,
+  "projectFilePath": "C:\\Nexule Projects\\PetroHubV2\\src\\PetroHub.Application\\PetroHub.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ckraj\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

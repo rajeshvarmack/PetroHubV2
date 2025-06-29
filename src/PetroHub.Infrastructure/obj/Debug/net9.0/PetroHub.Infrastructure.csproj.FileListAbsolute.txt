@@ -1,0 +1,17 @@
+C:\Nexule Projects\PetroHubV2\src\PetroHub.Infrastructure\bin\Debug\net9.0\PetroHub.Infrastructure.deps.json
+C:\Nexule Projects\PetroHubV2\src\PetroHub.Infrastructure\bin\Debug\net9.0\PetroHub.Infrastructure.runtimeconfig.json
+C:\Nexule Projects\PetroHubV2\src\PetroHub.Infrastructure\bin\Debug\net9.0\PetroHub.Infrastructure.dll
+C:\Nexule Projects\PetroHubV2\src\PetroHub.Infrastructure\bin\Debug\net9.0\PetroHub.Infrastructure.pdb
+C:\Nexule Projects\PetroHubV2\src\PetroHub.Infrastructure\bin\Debug\net9.0\PetroHub.Domain.dll
+C:\Nexule Projects\PetroHubV2\src\PetroHub.Infrastructure\bin\Debug\net9.0\PetroHub.Domain.pdb
+C:\Nexule Projects\PetroHubV2\src\PetroHub.Infrastructure\obj\Debug\net9.0\PetroHub.Infrastructure.csproj.AssemblyReference.cache
+C:\Nexule Projects\PetroHubV2\src\PetroHub.Infrastructure\obj\Debug\net9.0\PetroHub.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nexule Projects\PetroHubV2\src\PetroHub.Infrastructure\obj\Debug\net9.0\PetroHub.Infrastructure.AssemblyInfoInputs.cache
+C:\Nexule Projects\PetroHubV2\src\PetroHub.Infrastructure\obj\Debug\net9.0\PetroHub.Infrastructure.AssemblyInfo.cs
+C:\Nexule Projects\PetroHubV2\src\PetroHub.Infrastructure\obj\Debug\net9.0\PetroHub.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Nexule Projects\PetroHubV2\src\PetroHub.Infrastructure\obj\Debug\net9.0\PetroHub.2DB93780.Up2Date
+C:\Nexule Projects\PetroHubV2\src\PetroHub.Infrastructure\obj\Debug\net9.0\PetroHub.Infrastructure.dll
+C:\Nexule Projects\PetroHubV2\src\PetroHub.Infrastructure\obj\Debug\net9.0\refint\PetroHub.Infrastructure.dll
+C:\Nexule Projects\PetroHubV2\src\PetroHub.Infrastructure\obj\Debug\net9.0\PetroHub.Infrastructure.pdb
+C:\Nexule Projects\PetroHubV2\src\PetroHub.Infrastructure\obj\Debug\net9.0\PetroHub.Infrastructure.genruntimeconfig.cache
+C:\Nexule Projects\PetroHubV2\src\PetroHub.Infrastructure\obj\Debug\net9.0\ref\PetroHub.Infrastructure.dll
