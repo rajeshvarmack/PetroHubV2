@@ -5,6 +5,7 @@ C:\Nexule Projects\PetroHubV2\src\PetroHub.Domain\obj\Debug\net9.0\PetroHub.Doma
 C:\Nexule Projects\PetroHubV2\src\PetroHub.Domain\obj\Debug\net9.0\PetroHub.Domain.AssemblyInfoInputs.cache
 C:\Nexule Projects\PetroHubV2\src\PetroHub.Domain\obj\Debug\net9.0\PetroHub.Domain.AssemblyInfo.cs
 C:\Nexule Projects\PetroHubV2\src\PetroHub.Domain\obj\Debug\net9.0\PetroHub.Domain.csproj.CoreCompileInputs.cache
+C:\Nexule Projects\PetroHubV2\src\PetroHub.Domain\obj\Debug\net9.0\PetroHub.Domain.sourcelink.json
 C:\Nexule Projects\PetroHubV2\src\PetroHub.Domain\obj\Debug\net9.0\PetroHub.Domain.dll
 C:\Nexule Projects\PetroHubV2\src\PetroHub.Domain\obj\Debug\net9.0\refint\PetroHub.Domain.dll
 C:\Nexule Projects\PetroHubV2\src\PetroHub.Domain\obj\Debug\net9.0\PetroHub.Domain.pdb

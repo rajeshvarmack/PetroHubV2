@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Nexule Projects\\PetroHubV2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C005678-A04F-4DB9-9FB0-CDD78D628D5E}|src\\PetroHub.Application\\PetroHub.Application.csproj|c:\\nexule projects\\petrohubv2\\src\\petrohub.application\\dtos\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C005678-A04F-4DB9-9FB0-CDD78D628D5E}|src\\PetroHub.Application\\PetroHub.Application.csproj|solutionrelative:src\\petrohub.application\\dtos\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9FEC410-AC33-4454-AC61-4AEB75780801}|src\\PetroHub.Infrastructure\\PetroHub.Infrastructure.csproj|c:\\nexule projects\\petrohubv2\\src\\petrohub.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9FEC410-AC33-4454-AC61-4AEB75780801}|src\\PetroHub.Infrastructure\\PetroHub.Infrastructure.csproj|solutionrelative:src\\petrohub.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9FEC410-AC33-4454-AC61-4AEB75780801}|src\\PetroHub.Infrastructure\\PetroHub.Infrastructure.csproj|c:\\nexule projects\\petrohubv2\\src\\petrohub.infrastructure\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9FEC410-AC33-4454-AC61-4AEB75780801}|src\\PetroHub.Infrastructure\\PetroHub.Infrastructure.csproj|solutionrelative:src\\petrohub.infrastructure\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F7ACC0-7E23-4AC5-A19A-7F9986993D87}|src\\PetroHub.API\\PetroHub.API.csproj|c:\\nexule projects\\petrohubv2\\src\\petrohub.api\\middleware\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F7ACC0-7E23-4AC5-A19A-7F9986993D87}|src\\PetroHub.API\\PetroHub.API.csproj|solutionrelative:src\\petrohub.api\\middleware\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F7ACC0-7E23-4AC5-A19A-7F9986993D87}|src\\PetroHub.API\\PetroHub.API.csproj|c:\\nexule projects\\petrohubv2\\src\\petrohub.api\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F7ACC0-7E23-4AC5-A19A-7F9986993D87}|src\\PetroHub.API\\PetroHub.API.csproj|solutionrelative:src\\petrohub.api\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F7ACC0-7E23-4AC5-A19A-7F9986993D87}|src\\PetroHub.API\\PetroHub.API.csproj|c:\\nexule projects\\petrohubv2\\src\\petrohub.api\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F7ACC0-7E23-4AC5-A19A-7F9986993D87}|src\\PetroHub.API\\PetroHub.API.csproj|solutionrelative:src\\petrohub.api\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F7ACC0-7E23-4AC5-A19A-7F9986993D87}|src\\PetroHub.API\\PetroHub.API.csproj|c:\\nexule projects\\petrohubv2\\src\\petrohub.api\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F7ACC0-7E23-4AC5-A19A-7F9986993D87}|src\\PetroHub.API\\PetroHub.API.csproj|solutionrelative:src\\petrohub.api\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseDto.cs",
+              "DocumentMoniker": "C:\\Nexule Projects\\PetroHubV2\\src\\PetroHub.Application\\DTOs\\BaseDto.cs",
+              "RelativeDocumentMoniker": "src\\PetroHub.Application\\DTOs\\BaseDto.cs",
+              "ToolTip": "C:\\Nexule Projects\\PetroHubV2\\src\\PetroHub.Application\\DTOs\\BaseDto.cs",
+              "RelativeToolTip": "src\\PetroHub.Application\\DTOs\\BaseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:28:11.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Nexule Projects\\PetroHubV2\\src\\PetroHub.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "src\\PetroHub.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Nexule Projects\\PetroHubV2\\src\\PetroHub.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "src\\PetroHub.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:27:32.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Nexule Projects\\PetroHubV2\\src\\PetroHub.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "src\\PetroHub.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Nexule Projects\\PetroHubV2\\src\\PetroHub.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "src\\PetroHub.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:27:01.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GlobalExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Nexule Projects\\PetroHubV2\\src\\PetroHub.API\\Middleware\\GlobalExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "src\\PetroHub.API\\Middleware\\GlobalExceptionMiddleware.cs",
+              "ToolTip": "C:\\Nexule Projects\\PetroHubV2\\src\\PetroHub.API\\Middleware\\GlobalExceptionMiddleware.cs",
+              "RelativeToolTip": "src\\PetroHub.API\\Middleware\\GlobalExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:26:43.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Nexule Projects\\PetroHubV2\\src\\PetroHub.API\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "src\\PetroHub.API\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Nexule Projects\\PetroHubV2\\src\\PetroHub.API\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "src\\PetroHub.API\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:26:36.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "C:\\Nexule Projects\\PetroHubV2\\src\\PetroHub.API\\Controllers\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "src\\PetroHub.API\\Controllers\\BaseApiController.cs",
+              "ToolTip": "C:\\Nexule Projects\\PetroHubV2\\src\\PetroHub.API\\Controllers\\BaseApiController.cs",
+              "RelativeToolTip": "src\\PetroHub.API\\Controllers\\BaseApiController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:26:18.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HealthController.cs",
+              "DocumentMoniker": "C:\\Nexule Projects\\PetroHubV2\\src\\PetroHub.API\\Controllers\\HealthController.cs",
+              "RelativeDocumentMoniker": "src\\PetroHub.API\\Controllers\\HealthController.cs",
+              "ToolTip": "C:\\Nexule Projects\\PetroHubV2\\src\\PetroHub.API\\Controllers\\HealthController.cs",
+              "RelativeToolTip": "src\\PetroHub.API\\Controllers\\HealthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T11:24:44.834Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

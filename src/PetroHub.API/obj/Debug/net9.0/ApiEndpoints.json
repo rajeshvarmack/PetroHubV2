@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "PetroHub.API.Controllers.HealthController",
+    "Method": "Get",
+    "RelativePath": "api/v1/Health",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PetroHub.API.Controllers.HealthController",
+    "Method": "GetCulture",
+    "RelativePath": "api/v1/Health/culture",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

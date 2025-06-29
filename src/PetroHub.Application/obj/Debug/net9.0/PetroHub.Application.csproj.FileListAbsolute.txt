@@ -14,9 +14,8 @@ C:\Nexule Projects\PetroHubV2\src\PetroHub.Application\obj\Debug\net9.0\PetroHub
 C:\Nexule Projects\PetroHubV2\src\PetroHub.Application\obj\Debug\net9.0\PetroHub.Application.AssemblyInfoInputs.cache
 C:\Nexule Projects\PetroHubV2\src\PetroHub.Application\obj\Debug\net9.0\PetroHub.Application.AssemblyInfo.cs
 C:\Nexule Projects\PetroHubV2\src\PetroHub.Application\obj\Debug\net9.0\PetroHub.Application.csproj.CoreCompileInputs.cache
-C:\Nexule Projects\PetroHubV2\src\PetroHub.Application\obj\Debug\net9.0\ar\PetroHub.Application.resources.cs
+C:\Nexule Projects\PetroHubV2\src\PetroHub.Application\obj\Debug\net9.0\PetroHub.Application.sourcelink.json
 C:\Nexule Projects\PetroHubV2\src\PetroHub.Application\obj\Debug\net9.0\ar\PetroHub.Application.resources.dll
-C:\Nexule Projects\PetroHubV2\src\PetroHub.Application\obj\Debug\net9.0\hi\PetroHub.Application.resources.cs
 C:\Nexule Projects\PetroHubV2\src\PetroHub.Application\obj\Debug\net9.0\hi\PetroHub.Application.resources.dll
 C:\Nexule Projects\PetroHubV2\src\PetroHub.Application\obj\Debug\net9.0\PetroHub.42BE5A7F.Up2Date
 C:\Nexule Projects\PetroHubV2\src\PetroHub.Application\obj\Debug\net9.0\PetroHub.Application.dll

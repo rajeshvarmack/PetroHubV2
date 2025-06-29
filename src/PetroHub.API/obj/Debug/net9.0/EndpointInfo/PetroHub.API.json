@@ -1,0 +1,35 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "PetroHub API",
+    "description": "A comprehensive API for petrol station management",
+    "version": "v1"
+  },
+  "paths": {
+    "/api/v1/Health": {
+      "get": {
+        "tags": [
+          "Health"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/v1/Health/culture": {
+      "get": {
+        "tags": [
+          "Health"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}
